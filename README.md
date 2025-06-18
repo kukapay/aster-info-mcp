@@ -2,6 +2,10 @@
 
 An MCP server that provides structured access to [Aster DEX](https://www.asterdex.com/en) market data—covering candlesticks, order books, trades, and funding rates.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/aster-info-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/aster-info-mcp/badge" alt="aster-info-mcp MCP server" />
+</a>
+
 ![GitHub License](https://img.shields.io/github/license/kukapay/aster-info-mcp) 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
